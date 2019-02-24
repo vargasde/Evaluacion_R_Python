@@ -1,6 +1,6 @@
 # Evaluacion_R_Python: Evolucion de multas en Madrid
 
-## Instrucciones de como empezar a correr el trabajo de Data Visualization
+## Instrucciones de como empezar a correr el trabajo
 1.	Descarga el archivo .csv de Google Drive del Url indicado del cual hemos realizado el análisis e investigación para el proyecto: 
       ARCHIVO PARA R: https://drive.google.com/open?id=1bqjgWEOhS5vzhPCfKWbudK35QH5NSus_
       ARCHIVO PARA PYTHON: https://drive.google.com/open?id=1ChPmKNLpklNbMjpVwOuBFls_QR5C6v9H
