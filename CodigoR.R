@@ -263,8 +263,6 @@ ggplot(tabla_denun,
 
 MAPAS
 
-multas_graves <- dplyr::filter(multas, calificacion == 'MUY GRAVE')
-multas_graves <- dplyr::filter(multas, lon > -4.492209)-3.1355329
 multas_graves <- multas[multas$calificacion == 'MUY GRAVE',]
 multas_graves <- multas_graves[multas_graves$lon > -4.492209,]
 multas_graves <- multas_graves[multas_graves$lon < -3.1355329,]
