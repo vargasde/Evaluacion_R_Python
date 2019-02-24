@@ -218,8 +218,6 @@ colnames(multas) <- c('fecha', 'calificacion','lugar', 'categoria', 'descripcion
                       'vel_limite', 'vel_circula', 'vehiculo', 'denunciante', 'monto',
                       'descuento', 'puntos', 'lon', 'lat', 'mes', 'anio')
 
-colnames(multas) <- c('hecho', 'calificacion', 'lugar', '')
-
 # Generar el nuevo csv de Multas
 
 #write.csv(multas, 'MultasMadrid.csv', row.names = TRUE)
